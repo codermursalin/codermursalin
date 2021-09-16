@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mursalin Sk</h1>
 <h3 align="center">Full-stack Web Developer and JavaScript Enthusiast, Who Loves Building Things In JavasSript 🔥 👨🏽‍💻🏅</h3>
 
-<p align="left"> <a href="https://twitter.com/mursalinsk5" target="blank"><img src="https://img.shields.io/twitter/follow/mursalinsk5?logo=twitter&style=for-the-badge" alt="mursalinsk5" /></a> </p>
-
 - 🔭 I’m currently studying **Computer Science and Engineering**
-
-- 🌱 I’m currently learning **MERN**
 
 - 👯 University **Aliah University**
 
-- Daily Goal **Solving Minimum 5+ Data Structure and Algorithms Problem**
+- 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **C++, JavaScript, React Js, Node Js,MongooDB**
+- My Daily Goal **Solving Minimum 5+ Data Structure and Algorithms Problem**
+
+- 💬 Ask me about **C++, JavaScript, React Js, Node Js,Express Js, MongooDB**
 
 - 📫 How to reach me **mursalinsk310@gmail.com**
 
