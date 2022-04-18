@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning : **MERN**
 
-- Daily Goal : **Solving Minimum 5+ Data Structure and Algorithms Problem**
-
 - 💬 Ask me about **C++, JavaScript, React Js, Node Js,MongooDB**
 
 - 📫 How to reach me **mursalinsk310@gmail.com**
